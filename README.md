@@ -1,4 +1,5 @@
 # My-Git-Repo
+Some Changes from Developer2
 
 This si my firsrt git repository
 Some changes in remote
